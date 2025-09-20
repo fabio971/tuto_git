@@ -12,3 +12,11 @@ git commit -m “Commit init”
 git branch -M main
 git push origin main
 ```
+
+## Rediger un commit
+
+```
+Titre commit
+
+Description du commit avec des informations sur l'évolution du projet
+```
