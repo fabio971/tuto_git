@@ -27,3 +27,8 @@ git add .
 git commit -m "Titre commit"
 git push origin main
 ```
+
+## Création d'un branche
+```bash
+git checkout -b <nom_branche>
+``` 
