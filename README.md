@@ -24,7 +24,7 @@ Description du commit avec des informations sur l'évolution du projet
 ## Envoyer un commit à distant
 ```bash
 git add .
-git commit -m "Un commentaire dans le commit"
+git commit -m "Titre commentaire"
 git push origin main
 ```
 
